@@ -1,0 +1,11 @@
+<application>
+  <component name="UuidSettings">
+    <option name="schemes">
+      <list>
+        <UuidScheme>
+          <option name="enclosure" value="" />
+        </UuidScheme>
+      </list>
+    </option>
+  </component>
+</application>
